@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VS Code C# Workspace/1.0.0": {
+        "runtime": {
+          "VS Code C# Workspace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VS Code C# Workspace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

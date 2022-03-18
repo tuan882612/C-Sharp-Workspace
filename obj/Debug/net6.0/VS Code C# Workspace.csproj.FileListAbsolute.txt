@@ -1,0 +1,15 @@
+C:\Users\tuan8\Documents\VS Code C# Workspace\bin\Debug\net6.0\VS Code C# Workspace.exe
+C:\Users\tuan8\Documents\VS Code C# Workspace\bin\Debug\net6.0\VS Code C# Workspace.deps.json
+C:\Users\tuan8\Documents\VS Code C# Workspace\bin\Debug\net6.0\VS Code C# Workspace.runtimeconfig.json
+C:\Users\tuan8\Documents\VS Code C# Workspace\bin\Debug\net6.0\VS Code C# Workspace.dll
+C:\Users\tuan8\Documents\VS Code C# Workspace\bin\Debug\net6.0\VS Code C# Workspace.pdb
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.csproj.AssemblyReference.cache
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.AssemblyInfoInputs.cache
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.AssemblyInfo.cs
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.csproj.CoreCompileInputs.cache
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.dll
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\refint\VS Code C# Workspace.dll
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.pdb
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\VS Code C# Workspace.genruntimeconfig.cache
+C:\Users\tuan8\Documents\VS Code C# Workspace\obj\Debug\net6.0\ref\VS Code C# Workspace.dll
